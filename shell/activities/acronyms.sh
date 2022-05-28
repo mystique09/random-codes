@@ -1,9 +1,7 @@
 #!/bin/bash
 
-
 WORDS=""
 
-#echo "Enter words: "
 read -p "Enter words: " WORDS
 
 count=0
